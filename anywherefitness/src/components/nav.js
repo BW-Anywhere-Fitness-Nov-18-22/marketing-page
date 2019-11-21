@@ -39,7 +39,7 @@ function Nav() {
         <img src={logo} alt="logo" height="50px" width="120px" />
       </header>
       <header className="nav-menu">
-        <a href="#">Login</a>
+        <a href="https://anywherefitnessn1822.netlify.com">Login</a>
         <a href="https://anywherefitnessn1822.netlify.com/" class="button">Sign Up</a>
       </header>
     </Navigation>

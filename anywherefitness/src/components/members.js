@@ -15,7 +15,7 @@ const Members = () => {
         display: flex;
         width: 90%;
         flex-direction: column;
-        margin-bottom: 40px;
+        margin: auto;
 
         .top-row {
             display: flex;
@@ -30,6 +30,7 @@ const Members = () => {
     `
     return (
         <Member className='member-card'>
+            <h2>Meet The Team</h2>
             <div className='top-row'>
                 <div>
                     <img src={jose} width='250px' height='250px' />
