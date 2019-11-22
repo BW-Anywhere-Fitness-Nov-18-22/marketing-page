@@ -67,7 +67,7 @@ function MainContent() {
           fitness class needs. AnywhereFitness makes it painless for Instructors
           and Clients alike to hold and attend Fitness classes wherever they
           might be held.
-          <a href="https://anywherefitnessn1822.netlify.com/" class="button">Sign Up</a>
+          <a href="https://anywherefitness.now.sh/" class="button">Sign Up</a>
         </div>
         <div class="content-image">
           <img src={logo} alt="logo" height="500px" width="1000px" />
@@ -89,7 +89,7 @@ function MainContent() {
           mobile):</p>
           </div>
           <div class="Features-image">
-            <img src={fitness} width='500px' height='500px' />
+            <img src={fitness} alt ='fitness pic' width='500px' height='500px' />
           </div>
         </Features>
       </>
